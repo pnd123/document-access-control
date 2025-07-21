@@ -1,0 +1,17 @@
+# Ignore environment variables
+.env
+
+# Ignore dependencies
+node_modules/
+
+# Hardhat build artifacts
+artifacts/
+cache/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
